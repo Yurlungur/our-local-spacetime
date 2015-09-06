@@ -19,6 +19,8 @@ spacetime:
     
 http://www.thephysicsmill.com/2015/09/06/our-local-spacetime/
 
+The images included in "figs" are not produced in Python. They were
+produced in Maple 16.
 
 Requirements
 ------------
@@ -32,6 +34,7 @@ Running
 Just run the script to generate the image:
 
 ```python2 local_spacetime.py```
+
 
 Source
 ------
