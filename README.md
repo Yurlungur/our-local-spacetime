@@ -1,7 +1,7 @@
 Our Local Spacetime
 ===================
 
-Author: Author: Jonah Miller (jonah.maxwell.miller@gmail.com)
+Author: Jonah Miller (jonah.maxwell.miller@gmail.com)
 
 This is a simplistic python script to generate a plot of the spaceitme
 around Earth using an isometric embedding of the surface
@@ -29,7 +29,9 @@ and matplotlib.
 Running
 -------
 
-Just run the script to generate the image.
+Just run the script to generate the image:
+
+```python2 local_spacetime.py```
 
 Source
 ------
