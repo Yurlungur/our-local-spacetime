@@ -9,7 +9,7 @@ around Earth using an isometric embedding of the surface
 ds^2 = -(1 - rs/r) dt^2 + (1-rs/r)^(-1) dr^2
 
 into 3D Minkowski space. The angular components of the metric are set
-to zero. The plot uses radial coordinates and avoids coordinate
+to zero. The plot uses radial coordinates and avoids the coordinate
 singularity at the schwarzschild radius by stopping at the radius of
 the surface of the Earth which is outside the Schwarzschild
 radius. Units are arbitrary.
