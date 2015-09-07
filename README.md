@@ -25,15 +25,17 @@ produced in Maple 16.
 Requirements
 ------------
 
-Python2 and the the scientific python stack including numpy, scipy,
+Python and the the scientific python stack including numpy, scipy,
 and matplotlib.
+
+The code should work with either python2 or pyhton3.
 
 Running
 -------
 
 Just run the script to generate the image:
 
-```python2 local_spacetime.py```
+```python local_spacetime.py```
 
 
 Source
